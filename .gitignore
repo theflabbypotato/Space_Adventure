@@ -1,0 +1,16 @@
+# Unity auto-generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Ll]ogs/
+UserSettings/
+
+# Visual Studio / JetBrains Rider
+.vscode/
+*.csproj
+*.sln
+*.userprefs
+
+# DS store
+.DS_Store
