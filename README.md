@@ -8,7 +8,7 @@ I made this game to learn about VR/AR development in Unity.  I watched tutorials
 
 ### **Sped Up Video Walkthrough:**
 
-<iframe src="https://drive.google.com/file/d/1jeo-0eL1f9kQWg0QafWRKeScMp7zJ52E/view?usp=drive_link" width="640" height="480" allow="autoplay"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=CxUsBicEldU&ab_channel=EvanZhang" frameborder="0" allowfullscreen></iframe>
 
 ## Setup Instructions for Running Locally
 
